@@ -1,6 +1,6 @@
 # Laravel Service Template
 
-A template for Laravel micro services with JWT Token validation and user identification.
+A template for Laravel micro services with JWT validation and user identification.
 
 ## API Documentation
 
